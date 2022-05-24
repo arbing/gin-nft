@@ -32,11 +32,6 @@
           "display_type": "boost_percentage",
           "trait_type": "Health Increase",
           "value": "20"
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Generation",
-          "value": "3"
         }
       ]
     },
@@ -72,11 +67,6 @@
           "display_type": "boost_percentage",
           "trait_type": "Health Increase",
           "value": "20"
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Generation",
-          "value": "3"
         }
       ]
     },
@@ -112,11 +102,6 @@
           "display_type": "boost_percentage",
           "trait_type": "Health Increase",
           "value": "20"
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Generation",
-          "value": "3"
         }
       ]
     },
@@ -152,11 +137,6 @@
           "display_type": "boost_percentage",
           "trait_type": "Health Increase",
           "value": "20"
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Generation",
-          "value": "3"
         }
       ]
     },
@@ -192,11 +172,6 @@
           "display_type": "boost_percentage",
           "trait_type": "Health Increase",
           "value": "20"
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Generation",
-          "value": "3"
         }
       ]
     },
@@ -232,11 +207,6 @@
           "display_type": "boost_percentage",
           "trait_type": "Health Increase",
           "value": "20"
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Generation",
-          "value": "3"
         }
       ]
     },
@@ -272,11 +242,6 @@
           "display_type": "boost_percentage",
           "trait_type": "Health Increase",
           "value": "20"
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Generation",
-          "value": "3"
         }
       ]
     },
@@ -312,11 +277,6 @@
           "display_type": "boost_percentage",
           "trait_type": "Health Increase",
           "value": "20"
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Generation",
-          "value": "3"
         }
       ]
     },
@@ -352,11 +312,6 @@
           "display_type": "boost_percentage",
           "trait_type": "Health Increase",
           "value": "20"
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Generation",
-          "value": "3"
         }
       ]
     },
@@ -392,11 +347,6 @@
           "display_type": "boost_percentage",
           "trait_type": "Health Increase",
           "value": "20"
-        },
-        {
-          "display_type": "number",
-          "trait_type": "Generation",
-          "value": "3"
         }
       ]
     }
